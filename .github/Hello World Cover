@@ -1,2 +1,50 @@
 // the hello world program
 document.write('Hello, World!');
+
+
+// program to write to console
+
+// passing number 
+console.log(8);
+
+// passing string
+console.log('hello');
+
+// passing variable
+const x = 'hello';
+console.log(x);
+
+// passing function
+function sayName() {
+    return 'Hello World';
+}
+console.log(sayName());
+
+// passing string and a variable
+const name = 'World';
+console.log('Hello ' + name);
+
+// passing object
+let obj = {
+    name: 'World',
+    age: 00
+}
+console.log(obj);
+
+
+// program to pass parameter to a setTimeout() function
+
+function greet() {
+    console.log('Hello world');
+}
+
+// passing parameter
+setTimeout(greet, 3000);
+console.log('Hello World');
+
+     end)))
+
+
+         end)))
+
+       end)))
