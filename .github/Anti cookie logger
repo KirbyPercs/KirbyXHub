@@ -133,7 +133,7 @@ local notify = ("Your script has been bypassed")
       local ScriptID = ("72827287")
       local Mainframe = ("changed")
       local NewPassword;MainFrame
-      local password = ("•••••••••••••••••••••••••••••")
+      local password = ("••••••••••••••••••••••••••••••••")
       local randsom = ("$KirbyX")
       local Randsom2 = arguement.info = false
       local randsom3 = Money.print = ("350Usd")
