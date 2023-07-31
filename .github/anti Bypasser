@@ -1,4 +1,6 @@
- - name: Close Stale Issues
+   ---- this script was loaded by using kriptagraphy
+
+- name: Close Stale Issues
   uses: actions/stale@v4.1.1
   with:
     # Token for the repository. Can be passed in using `{{ secrets.GITHUB_TOKEN }}`.
