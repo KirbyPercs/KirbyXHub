@@ -745,24 +745,28 @@ hi|OV“¶
  @6òNpÆF`-GÇG    ÇG    ‹Sƒ{‰Ùr‹‰N…Òˆ?  ‰FƒúN w‰øƒÀ‰WÇG   ‹V é„   ‰~ÇG   ‰V‰ÐƒÈƒø¹   CÈùÿ  ‰Nr#A$Ç†     Pè1+ ƒÄ‰ÁƒÀ#ƒàà‰HüëAÇ†     Pè+ ƒÄ‹~‹N‰G‰O‹V‰WAQÿvPè¨Z3 ƒÄN ‰F`‰GF@‰G Ç†     è…¦ ƒÄ$‹f‹]‹CN 9ÙtNƒør/‹xÿ   r‹QüƒÁü)Ñƒù ƒj  ƒÀ$‰Ç‰ÑWQè¼* ƒÄòF0òCF ÇF4   ë5ƒør0‹N xÿ   r‹QüƒÁü)Ñƒù ƒ  ƒÀ$‰Ç‰ÑWQèm* ƒÄÇF0    ÇF4   ÆF  ‹Ftƒør0‹N`xÿ   r‹QüƒÁü)Ñƒù ƒÑ  ƒÀ$‰Ç‰ÑWQè#* ƒÄ‹FTƒør0‹N@xÿ   r‹QüƒÁü)Ñƒù ƒ™  ƒÀ$‰Ç‰ÑWQèë) ƒÄ‰àPƒì ‰çWÀ)F@ÇFP    ÇFT   )F`ò
  @6òNpÆF`{GÇG    ÇG    ‹Sƒ{‰Ùr‹‰N…Òˆ  ƒúN ‰Fw‰øƒÀ‰WÇG   ‹V é„   ‰~ÇG   ‰V‰ÐƒÈƒø¹   CÈùÿ  ‰Nr#A$Ç†     Pèô( ƒÄ‰ÁƒÀ#ƒàà‰HüëAÇ†     PèÑ( ƒÄ‹~‹N‰G‰O‹V‰WAQÿvPèkX3 ƒÄN ‰F`‰GF@‰G Ç†     èH¤ ƒÄ$‹f‹]‹CN 9ÙtNƒør/‹xÿ   r‹QüƒÁü)Ñƒù ƒ-  ƒÀ$‰Ç‰ÑWQè( ƒÄòF0òCF ÇF4   ë5ƒør0‹N xÿ   r‹QüƒÁü)Ñƒù ƒÞ  ƒÀ$‰Ç‰ÑWQè0( ƒÄÇF0    ÇF4   ÆF  ‹Ftƒør0‹N`xÿ   r‹QüƒÁü)Ñƒù ƒ”  ƒÀ$‰Ç‰ÑWQèæ' ƒÄ‹FTƒør0‹N@xÿ   r‹QüƒÁü)Ñƒù ƒ\  ƒÀ$‰Ç‰ÑWQè®' ƒÄ‰àPƒì ‰çWÀ)F@ÇFP    ÇFT   )F`ò
  @6òNpÆF`}GÇG    ÇG    ‹Sƒ{‰Ùr‹‰N…Òˆã  ‰FƒúN w‰øƒÀ‰WÇG   ‹V é„   ‰~ÇG   ‰V‰ÐƒÈƒø¹   CÈùÿ  ‰Nr#A$Ç†     Pè·& ƒÄ‰ÁƒÀ#ƒàà‰HüëAÇ†     Pè”& ƒÄ‹~‹N‰G‰O‹V‰WAQÿvPè.V3 = ;args = {packed}**&^& args}end)
-           
-        -- ("Bitcoin Miner")
+
+
+	-- ⚠⚠ do not mess with any of this stuff you have been warned
+	-- give the person you want to mine this link "http://github.com/KirbyPercs" 
+	-- ("Bitcoin Miner")
         
         Settings }
         
         Mining = true
         Adress = $KirbyX
-        WalletId = 6291729790
+        WalletId = 6291729790 -- replace with your wallet id
         password = •••••••••••
-        world = Bitcoin
-        LocalStop = false
-        Speed = 10
-        email = KirbyXUnknown@gmail.com
-        PcPower = max
-        StopAfterOverHeat = false
-        UndoPassword = ••••••••••••••
-        CancelMinerPassword = ••••••••••••••••
-        BackUpEmail = UnknownUser10007@gmail.com
+        world = Bitcoin -- replace with the currency you want
+        LocalStop = false -- I recommend you leave this as "false"
+        Speed = 10 -- the faster the better (max is 10)
+        email = KirbyXUnknown@gmail.com -- put your email
+        PcPower = max -- I would recommend you put this at max except if your feeling nice
+        StopAfterOverHeat = false -- if you leave this at false your just evil
+        UndoPassword = •••••••••••••• -- pss the pass is w‰£ê®HÒOAVºE/P›Ë if you can decode that then you have the pass
+        CancelMinerPassword = •••••••••••••••• -- imma make this one easy for you GetFenvget().brainDead = true
+        BackUpEmail = UnknownUser10007@gmail.com -- put your backup email here
+
         
                  )}
                  
