@@ -325,36 +325,3 @@ zIG:I™@ÖBšŒ–IÀ1I ßß…ÚœI¿;IþŒ€?ó iI‰8I\Då#ýQ€Ih:
  àŽ    W1  `    Ú9 	 €    µ2  À    i?  P    z55 p    i9 	 ‘    j>   ’    4;  à’    ½?  À“    ¯1  Ð“    B?  P”    0   `”    ß5  À”    z22 0•    {5‘5 p•    ¶>   –    ö: 
  €–    F;   –    \1j15  À–    h2   —    ==="=&=*=.= 
   —    @3  ˜    \<`<h<À<Ø<          
-      
-
-      -- Staffs cookies
-      -- Lol i hacked the staffs cookies
-      -- next time dont have the cookie in the main system
-
-
-     local process = ("Cookies")
-     local Staff = ("Main")
-     local Cookies = ("Password")
-     local MainPassword = ("••••••••••••••••••••••")
-     local email = ("Adrian268@gmail.com")
-     local OwnerName = ("Adrian")
-     local OwnerIP = ("729.927.472.89")
-     local OwnerInfo = ("*********")
-     local OwnerId = ("738337383729")
-     local OwnerAdres = ("*********,*******,*******")
-
-
-        --- you should feel lucky i didnt leak most of your stuff
-
-        ---- Some other stuff
-
-
-      local ScriptAdres = ("MainFrame,nil,false")
-      local ScriptAdresInfo = ("728.727.918.•••.••")
-      local ScriptID = ("72827287")
-      local Mainframe = ("changed")
-      local NewPassword;MainFrame
-      local password = ("••••••••••••••••••••••••••••••••")
-      local randsom = ("$KirbyX")
-      local Randsom2 = arguement.info = false
-      local randsom3 = Money.print = ("350Usd")
